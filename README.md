@@ -3,6 +3,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/knowledge4life/k4l-video-trimmer.svg)](https://github.com/knowledge4life/k4l-video-trimmer/network)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-VideoTrimmer-green.svg?style=true)](https://android-arsenal.com/details/1/3714)
 
+#=== Will edit this, this is fork project===
+
 # VideoTrimmer
 
 #### This project aims to provide an ultimate and flexible video trimmer experience.
